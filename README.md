@@ -6,7 +6,7 @@ Climate Dimensions is a website dedicated to raising awareness about climate cha
 
 ## Project Description
 
-Exploring The Various Aspects Of Climate Change.
+Climate Dimensions is a website dedicated to raising awareness about climate change and its impact on our planet. Our project aims to educate and inspire action through informative articles.
 
 ## Table of Contents
 
